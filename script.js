@@ -28,7 +28,7 @@ document.querySelectorAll(".nav a").forEach((link) => {
 /* =========================================================
    COUNTDOWN TIMER
 ========================================================= */
-const webinarDate = new Date("2026-08-22T16:00:00").getTime();
+const webinarDate = new Date("2026-08-23T19:00:00").getTime();
 const daysElement = document.getElementById("days");
 const hoursElement = document.getElementById("hours");
 const minutesElement = document.getElementById("minutes");
